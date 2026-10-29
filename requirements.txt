@@ -1,0 +1,11 @@
+pydicom==3.0.1
+numpy<2.3
+opencv-python-headless==4.10.0.84
+imageio-ffmpeg==0.5.1
+pylibjpeg==2.0.1
+pylibjpeg-libjpeg==2.3.0
+pylibjpeg-openjpeg==2.4.0
+pylibjpeg-rle==2.1.0
+python-gdcm==3.0.24.1
+tkinterdnd2==0.4.2
+pyinstaller==6.11.1
